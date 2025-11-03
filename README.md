@@ -18,7 +18,7 @@ Projeto da disciplina CIC-1060 Arquitetura e Desenho de Software.
 - Foram feitas as entrevistas para o levantamento de requisitos.
 
 ## 26/09/2025
-- Foi feito a síntese dos requisitos, tanto dos questionários quando dos requisitos.  
+- Foi feito a síntese dos requisitos, tanto dos questionários quando das entrevistas.  
 
 ## 27/09/2025
 - Foi feito a identificação dos requisitos funcionais e não funcionais.
