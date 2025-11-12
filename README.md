@@ -32,3 +32,7 @@ Projeto da disciplina CIC-1060 Arquitetura e Desenho de Software.
 
 ## 20/10/2025
 - Foi finalizado o protótipo do sistema.
+
+  
+## 05/11/2025
+- Foi finalizado o diagrama de contexto.
