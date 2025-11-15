@@ -24,8 +24,13 @@ Projeto da disciplina CIC-1060 Arquitetura e Desenho de Software.
 - Foi feito a identificação dos requisitos funcionais e não funcionais.
 - Foi feito a matriz de rastreabilidade dos requisitos.
 
+
+## 27/09/2025
+- Foi feito os requisitos suplementar.
+
 ## 17/10/2025
 - Foi feito os casos de uso, os diagramas de caso de uso e a descrição de casos de uso.
+- Foi feito as especificações suplementar.
   
 ## 19/10/2025
 - Foi inicializado a criação do protótipo do sistema.
